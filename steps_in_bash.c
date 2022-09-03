@@ -44,6 +44,10 @@ assure the name and email:
     git config user.name
     git config user.email
     
+
+    git remote rename origin new_name
+    git remote add origin https://github.com/Yw-xwx/Hello-github
+    
     git log-----check the history of the repository
     touch .gitignore-----create a file to ignore files in it
         in gitignore,you can just input the name of the file,so it will ignore the file when you commit a lot of files to your github
