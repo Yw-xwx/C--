@@ -34,28 +34,28 @@ Steps:<br>
 
   
 Others:<br>
-{
-set up the name and email:
-    git config --global user.name "username"
-    git config --global user.email  useremail@qq.com
-assure the name and email:
-    git config user.name
-    git config user.email
+{<br>
+set up the name and email:<br>
+    git config --global user.name "username"<br>
+    git config --global user.email  useremail@qq.com<br>
+assure the name and email:<br>
+    git config user.name<br>
+    git config user.email<br>
     
 
-    git remote rename origin new_name
-    git remote add origin https://github.com/Yw-xwx/Hello-github
+    git remote rename origin new_name<br>
+    git remote add origin https://github.com/Yw-xwx/Hello-github<br>
     
-    git log-----check the history of the repository
-    touch .gitignore-----create a file to ignore files in it
-        in gitignore,you can just input the name of the file,so it will ignore the file when you commit a lot of files to your github
+    git log-----check the history of the repository<br>
+    touch .gitignore-----create a file to ignore files in it<br>
+        in gitignore,you can just input the name of the file,so it will ignore the file when you commit a lot of files to your github<br>
     
-
-branch:
-    git branch BranchName-----create a new branch
-    git branch  -----show all your branches
-    git checkout BranchName-----go to the new branch
-    git checkout -b BranchName-----create a new branch and go to the new branch
-    git branch -d BranchName------delete the branch:(-D to delete it very sure)
-
+<br>
+branch:<br>
+    git branch BranchName-----create a new branch<br>
+    git branch  -----show all your branches<br>
+    git checkout BranchName-----go to the new branch<br>
+    git checkout -b BranchName-----create a new branch and go to the new branch<br>
+    git branch -d BranchName------delete the branch:(-D to delete it very sure)<br>
+<br>
 }
