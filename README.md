@@ -33,7 +33,7 @@ Steps:<br>
   9."git push origin master" and wait it succeed.
 
   
-Others:
+Others:<br>
 {
 set up the name and email:
     git config --global user.name "username"
