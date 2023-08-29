@@ -1,3 +1,10 @@
+Edit your readme.md
+----------------
+* use two blanks--"  " in the end to start from the third row (which means all rows are separted by one blank row);
+* different from "  " mentioned above, "\</br>" just start from the next row without blanks;
+* use "* " to list sth all;(if you find the following rows are all listed with the above,just leave a blank row);
+* use "\"to avoid the escape(用反斜杠避免转义);
+
 Basic:
 ------------
     工作区内是untracked files;
